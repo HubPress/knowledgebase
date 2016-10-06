@@ -1,0 +1,14 @@
+---
+related:
+    - tabs/about_social_tab.adoc
+
+---
+
+The Instagram field lets you share your LinkedIn profile so readers can _add you to their LinkedIn network_. 
+
+For example: `https://au.linkedin.com/in/janesmith`
+
+This link is an example of an Australian profile. 
+Visit your profile and check the link in your profile page for your regional LinkedIn vanity URL.
+
+The field does not validate the URL, so make sure your profile address is pasted correctly, and you test it after your settings are published.

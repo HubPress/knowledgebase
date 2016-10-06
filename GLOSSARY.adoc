@@ -1,0 +1,7 @@
+= Glossary
+
+== Posts View
+
+The main view in HubPress listing your posts and a preview of the content.
+
+

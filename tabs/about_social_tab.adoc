@@ -1,0 +1,17 @@
+---
+related:
+    - fields/about_email.adoc
+    - fields/about_facebook.adoc
+    - fields/about_flickr.adoc
+    - fields/about_github.adoc
+    - fields/about_googleplus.adoc
+    - fields/about_instagram.adoc
+    - fields/about_linkedin.adoc
+    - fields/about_pinterest.adoc
+    - fields/about_twitter.adoc
+
+---
+
+All fields in this group need full URLs to your public profile pages.
+
+The way these values display on your blog depends on the theme selected.

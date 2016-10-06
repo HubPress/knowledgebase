@@ -1,0 +1,25 @@
+---
+related: 
+    - tabs/about_site_tab.adoc 
+    - fields/about_disqus_shortname.adoc
+    - fields/about_google_analytics.adoc 
+
+---
+
+The *Theme* is selectable from the list of themes stored in the `/themes` directory.
+
+This field is a free-text field, but you need to specify the theme according to the folder name.
+
+The current folder names are:
+
+* casper
+* ghostium
+* ichi
+* roon
+* saga
+* uno
+* uno-zen
+
+.New in 0.5.1
+NOTE: Theme names have all been changed to lowercase for consistency.
+If you find your theme is not loading, check the Site settings and adjust the names accordingly. 

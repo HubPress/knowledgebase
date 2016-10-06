@@ -1,0 +1,18 @@
+:experimental:
+
+Because HubPress is hosted on GitHub, you can update by pulling down the latest changes from the HubPress master repository.
+
+If you're new to GitHub, the repository you forked the project from is referred to as `Upstream`.
+
+With the btn:[Check for Update] button, you can update to the latest version.
+
+.How To Update Your HubPress Instance to the Latest Version
+. Click menu:Settings[Check for Upgrade].
+. Review the changes between your repository (left) and the HubPress upstream (right).
+You should only see changes made by the HubPress team, and not edits you have made to posts.
++
+image:/assets/maintain_the_latest_hubpress_04.png[alt="Set the head fork"]
++
+. If everything looks as you expect, create the Pull Request.
+. Apply the Pull Request to your instance of HubPress.
+. Reload HubPress to enjoy the new features.

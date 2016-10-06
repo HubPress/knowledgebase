@@ -1,0 +1,23 @@
+---
+related:
+    - buttons/about_editor_themes_button.adoc
+    - buttons/about_live_preview_button.adoc
+    - buttons/about_publish_button.adoc
+    - buttons/about_save_button.adoc
+    - writing/more_info_asciidoc.adoc
+
+---
+
+:experimental:
+The Writing view is where you author blog posts. You write posts in AsciiDoc mark-up language.
+
+You can change the theme using the btn:[Editor Theme] button.
+
+The view defaults to text only. You can change this to a split live preview using the btn:[Live Preview] button. 
+
+Use the btn:[Save] button to save your post while you write.
+
+Use the btn:[Publish] button to push your blog post to your static HubPress blog site.
+
+image::https://cloud.githubusercontent.com/assets/2006548/16179640/8f0864d4-366b-11e6-8551-470443375de8.gif[]
+

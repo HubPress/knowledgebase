@@ -1,0 +1,25 @@
+If you have a theme to your blog, this allows your readers to get a visual clue as to what the post is about.
+
+If you want to add a cover image to your Blog Post, set the `hp-image` attribute.
+
+.:hp-image: Example
+[source, asciidoc]
+----
+= Blog Title
+:hp-image: /images/a-cover-image.jpg
+----
+
+NOTE: HubPress does not set the `/images` directory path as the default for cover images: you must declare the full path to the image.
+
+Consider creating a `/covers` directory in your repository to group the cover images together.
+
+Naming the cover images consistently will make it easy to apply to every post. 
+
+.:hp-image: with `/covers` directory specified
+[source, asciidoc]
+----
+= Blog Title
+:hp-image: /images/covers/a-cover-image.jpg
+----
+
+The `Saga` theme supports cover images.

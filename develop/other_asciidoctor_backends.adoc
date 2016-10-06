@@ -1,0 +1,11 @@
+HubPress supports the HTML5 back-end.
+Specifying other back-end types results in an error similar to:
+
+[source,bash]
+----
+Uncaught RuntimeError: asciidoctor: FAILED: missing converter for backend 'deckjs'. Processing aborted.
+----
+
+To use a different backend to process your AsciiDoc files, see the http://asciidoctor.org/docs/user-manual/#selecting-an-output-format[Asciidoctor User Guide] 
+
+The _Selecting an Output Format_ section in the User Guide can help you work out the backend that is right for you, for use with the +asciidoctor+ command-line script.

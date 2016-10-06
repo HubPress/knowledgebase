@@ -1,0 +1,9 @@
+---
+related:
+    - tabs/about_meta_tab.adoc
+
+---
+
+Lets you specify a custom domain name for your blog.
+
+See https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages/[Setting Up A Custom Domain] to get help with configuring a CNAME for your blog.

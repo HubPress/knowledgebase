@@ -1,0 +1,8 @@
+---
+related:
+    - fields/about_git_cname.adoc
+    - fields/about_live_preview_render.adoc
+
+---
+
+This tab contains basic information configured in the `/hubpress/config.json` file.

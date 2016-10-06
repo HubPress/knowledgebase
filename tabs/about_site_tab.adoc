@@ -1,0 +1,11 @@
+--- 
+related: 
+    - fields/about_title_description.adoc
+    - fields/about_disqus_shortname.adoc
+    - fields/about_google_analytics.adoc
+    - fields/about_logo_cover.adoc 
+    - fields/about_themes.adoc 
+
+---
+
+The Site tab contains groups of fields that control how your blog is displayed when it is published. 

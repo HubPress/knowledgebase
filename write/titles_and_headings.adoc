@@ -1,0 +1,40 @@
+HubPress uses the Asciidoctor `Article` container to structure posts.
+
+The blog title is always Level 1 in an AsciiDoc post. For example, `= Title` sets the name of the Blog Post to `Title` when published.
+
+IMPORTANT: The Level 1 heading is mandatory for the blog post to save.
+
+The editor has basic validation built-in.
+If you don't start your blog with a Level 1 heading, there are no Preview or Save buttons in the editor. 
+This is a visual clue to check your blog structure.
+
+If you want a first-level (chapter) heading you use `== First Level Heading`, and so on to create other nested headings.
+
+For sections, use a `=== Second Level Heading` to create subsections below your chapters.
+
+[example,asciidoc]
+.Blog Post Syntax Example
+----
+= Update: What's New in Version 0.5.1
+:hp-tags: release
+:toc: macro
+:release: 0.5.1
+:published_at: 2016-06-20
+
+It's time for a new release of HubPress, which bumps the version up to {release}. 
+
+If you're looking for more information, all new features are highlighted in the docs with `{release}`. 
+
+A *"What's New"* video is also coming where we'll show you quickly about the changes.
+Subscribe to our new https://www.youtube.com/channel/UCNsNq3EoNCHGAD_h7eXlGrA[YouTube Channel] for more updates.
+
+IMPORTANT: There are breaking changes in this release that affect themes. 
+Make sure you read these Release Notes in their entirety before reporting any bugs.
+
+toc::[]
+
+== Upgrade your instance
+
+First, make sure that you have saved all your blog posts.
+Every unsaved draft will be lost because we have changed the storage system in this version.
+----

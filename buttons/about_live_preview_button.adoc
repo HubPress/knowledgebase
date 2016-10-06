@@ -1,0 +1,16 @@
+---
+related:
+    - views/about_writing_view.adoc
+    - write/more_info_asciidoc.adoc
+    - write/problems_with_posts.adoc
+
+---
+
+:experimental:
+
+Use the btn:[Live Preview] button to get a preview of your page with styles applied.
+
+The way the post formats when published may vary based on the theme you choose.
+
+btn:[Live Preview] can help you work out where structural issues in your blog post are. 
+

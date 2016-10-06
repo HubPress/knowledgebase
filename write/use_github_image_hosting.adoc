@@ -1,0 +1,22 @@
+---
+related: 
+    - tabs/about_site_tab.adoc 
+    - fields/about_logo_cover.adoc 
+    - write/use_image_directory.adoc
+
+---
+
+You can use a single GitHub issue as an image container for a blog post.
+  
+The issue can host other images by uploading images as comments.
+Another approach is to use separate issues to store individual images.
+
+Whatever works best for you, and your organization style.
+
+This five minute video demonstrates how to use GitHub Issues for image hosting. 
+You can use the same approach for cloud-hosting services as embed targets. 
+The video also contains some bonus tips on using the `image` AsciiDoc syntax.
+
+video::KoaGU91qJv8[youtube]
+
+

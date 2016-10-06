@@ -1,0 +1,23 @@
+---
+related:
+    - tabs/about_site_tab.adoc 
+    - fields/about_logo_cover.adoc 
+    - write/use_image_directory.adoc
+    - write/use_github_image_hosting.adoc
+
+---
+
+To embed images from a hosted source, put the full URL to the image in place of the `full_path_to_image`. 
+
+.Hosted Image Embed  
+  image::http://full_path_to_image[]
+
+NOTE: See the http://asciidoctor.org/docs/asciidoc-writers-guide/[Asciidoctor Writer's Guide] for complete `image` syntax. 
+
+You can do a lot with images, including adjusting the size of the image, the caption, the alt text, and other settings.
+
+Hosted sources include (but are not limited to): 
+
+* Instagram. 
+* another GitHub repository. 
+* any photo hosting site.

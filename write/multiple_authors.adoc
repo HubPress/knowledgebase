@@ -1,0 +1,17 @@
+:experimental:
+
+Use the same HubPress instance with multiple authors by adding contributors to the repo in which HubPress is hosted.
+
+Attribution::  
+  The first person to create a blog post is credited as the writer. 
+  Edits by other contributors are attributed to the first person who created the post.
+Site Changes:: 
+  Changes to general settings _do not_ affect the author data attributed to each post.
+
+.How To Add Collaborators to your HubPress Repository
+. Open your HubPress site on GitHub.
+. Click menu:Settings[Collaborators].
+. Add the GitHub users for which you want to grant access to your blog.
+
+When you add contributors, they are notified by the GitHub notification system. 
+Once they accept the invitation, they can collaborate with you on content development for the blog.

@@ -1,0 +1,11 @@
+---
+related:
+    - tabs/about_social_tab.adoc
+
+---
+
+The Facebook field lets you share your Facebook profile with your readers. 
+
+For example: `https://www.facebook.com/janesmith`
+
+The field does not validate the URL, so make sure your profile address is pasted correctly, and you test it after your settings are published.

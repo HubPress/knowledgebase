@@ -1,0 +1,30 @@
+---
+related:
+    - parameters/hp-alt-title.adoc
+    - parameters/hp-tags.adoc
+    - parameters/compat-mode.adoc
+    - write/more_info_asciidoc.adoc
+
+---
+
+In most cases, the issue you're experiencing with publishing will be markup related.
+Sometimes publishing issues you encounter after just setting up 
+
+To correct issues, switch to preview mode and see if things like headings are showing as you would expect.
+
+Sometimes the Asciidoctor engine will enforce correctly-nested structure and prevent the post from publishing. 
+
+Check your first level heading in your blog post if you can't click the save icon.
+
+If that is not working, make sure you have set your default branch correctly in GitHub. 
+See the README in your forked HubPress repository for initial configuration instructions. 
+
+Make sure you *re-read* the instructions again to ensure you have correctly selected `master` or `gh-pages` depending on your GitHub Pages configuration.
+
+[figure]
+.Where to change your repository in GitHub
+image::https://cloud.githubusercontent.com/assets/2006548/19147570/0214cbbe-8bb9-11e6-8079-66b10d608967.png[]
+
+See the related links for more information if you still have trouble publishing your post.
+
+If you still can't publish your post, create a bug in the https://github.com/HubPress/hubpress.io/issues[HubPress issue tracker] and we'll help you as soon as we can.

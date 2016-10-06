@@ -1,0 +1,22 @@
+YouTube and Vimeo have pre-defined short notations in Asciidoctor.
+Other services like BandCamp or SoundCloud need a block pass-through to work.
+See http://asciidoctor.org/docs/user-manual/#pass-bl for more information about block pass-throughs.
+
+.BandCamp Audio Embed
+[source,asciidoc]
+----
+++++
+<iframe style="border: 0; width: 350px; height: 470px;" src="//bandcamp.com/EmbeddedPlayer/album=2869458964/size=large/bgcol=333333/linkcol=0f91ff/tracklist=false/transparent=true/" seamless><a href="http://mocamborecords.bandcamp.com/album/showdown">SHOWDOWN by THE MIGHTY MOCAMBOS</a></iframe>
+++++
+----
+
+TIP: The trick with block pass-throughs (no matter the type) is to ensure any `src` value does not contain a mixed protocol.
+For example if the `src` link contained `http` and your blog uses a `https` protocol, the embed would fail.
+
+Some <iframe> elements provided by these sites may include the protocol.
+You must strip the protocol out when declaring pass-through blocks.
+
+The source link is essentially an absolute target to the hosted file on the service.
+The `//` opens the pointer to the file.
+
+See https://github.com/HubPress/hubpress.io/issues/136[this issue] which describes the journey to discovering how to embed content other than Vimeo and YouTube content.

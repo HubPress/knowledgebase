@@ -1,0 +1,7 @@
+The HubPress Administration Console is available at */hubpress*:
+
+* `https://[username].github.io/hubpress/` for GitHub Hosted blogs, or
+* `https://[username].github.io/[repositoryName]/hubpress/` for Domain Hosted blogs.
+* `https://[cname_domain]/hubpress` for custom domain-hosted (CNAME) blogs.
+
+NOTE: If you are using a CNAME, you might need to access your Administration console using the `https://<username>.github.io` address pattern initially, so your CNAME redirect will work.

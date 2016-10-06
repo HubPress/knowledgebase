@@ -1,0 +1,7 @@
+You can use the AsciiDoc include directive to include external file information in your blog posts.
+
+image::https://cloud.githubusercontent.com/assets/2006548/16184165/4012ec6a-36ba-11e6-8df4-01b26737c82d.png[]
+
+See http://asciidoctor.org/docs/user-manual/#include-directive for detailed syntax and usage information. 
+
+It is a powerful tool for bloggers that want to include blog posts within blog posts, or other content from local or hosted sources.

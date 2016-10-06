@@ -1,0 +1,37 @@
+Developers use the GitHub Gist service to store and share code snippets with other developers.
+
+You can use the gist macro to integrate Gist snippets from any developer in your posts.
+
+== Syntax
+
+The `gist` macro works similarly to the YouTube and Vimeo macros.
+
+For example with the gist https://gist.github.com/anthonny/7786310 the usage is described in the following code samples.
+
+.Include an entire Gist
+[source,asciidoc]
+----
+gist::7786310[]
+----
+
+.Include a Gist Featuring a Line Range
+[source,asciidoc]
+----
+gist::7786310[lines:16..20]
+----
+
+.Include a Gist Featuring a Line Range and Language
+[source,asciidoc]
+----
+gist::7786310[lines:16..20,type=javascript]
+----
+
+.Include a Gist Featuring a Package
+[source,asciidoc]
+----
+gist::7786310[file=package.json]
+----
+
+[figure]
+.Gist Syntax Examples and Results
+image::https://cloud.githubusercontent.com/assets/2006548/16184313/bf71edac-36bb-11e6-8acc-bcc779964fbc.png[]

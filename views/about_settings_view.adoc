@@ -1,0 +1,15 @@
+---
+related:
+    - tabs/about_meta_tab.adoc
+    - tabs/about_site_tab.adoc
+    - tabs/about_social_tab.adoc
+
+---
+
+You can configure basic blog settings (such as CNAME and Pagination) and social media accounts you want to connect to your blog.
+
+Settings groups are separated into tabs, to logically group the settings.
+
+.How To Access the Settings View
+. On the Posts View, click the Menu button.
+. Click Settings to load the Settings view.

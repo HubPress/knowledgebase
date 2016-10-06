@@ -1,0 +1,17 @@
+If code samples contain delimited asterix symbols, this pattern is parsed as processing instructions by Asciidoctor.
+
+If you find that your code samples are not displaying correctly, specify `:compat-mode: true` to disable processing in code blocks.
+
+.:compat-mode: Example
+[source, asciidoc]
+----
+= Blog Title
+:compat mode: true
+    `egrep '\(\ *\)\ *\{' /var/log/nginx/*`
+----
+
+If `:compat-mode:` was not specified here, the code sample would render like this:
+
+    egrep '\(\ \)\ *\{' /var/log/nginx/
+
+See the http://asciidoctor.org/docs/migration/#compat-mode[AsciiDoctor Migration Guide] for more information about `:compat-mode:`.

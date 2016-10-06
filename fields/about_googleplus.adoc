@@ -1,0 +1,11 @@
+---
+related:
+   - tabs/about_social_tab.adoc
+
+---
+
+The Google+ field lets you promote your Google Plus profile to your readers.
+
+For example: `https://plus.google.com/u/0/+JaneSmith_janesmith`
+
+The field does not validate the URL, so make sure your profile address is pasted correctly, and you test it after your settings are published.

@@ -1,0 +1,11 @@
+---
+related:
+    - tabs/about_social_tab.adoc
+
+---
+
+The email field lets you specify an email address that is linked to the email icon in the theme.
+
+The email field does not validate the address, so make sure it is a valid address and is spelled correctly.
+
+

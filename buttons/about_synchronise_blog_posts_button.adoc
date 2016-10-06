@@ -1,0 +1,14 @@
+---
+related:
+    - views/about_posts_view.adoc
+
+---
+:experimental:
+
+The btn:[Synchronize] button allows you to re-synchronise your posts between HubPress browser sessions.
+
+image:https://cloud.githubusercontent.com/assets/2006548/16179319/e97d23e6-3661-11e6-8f6b-e69de0026c51.gif[]
+
+This is useful when you may have authored a post on your HubPress tablet, and you can't see the blog post on your HubPress PC.
+
+It can also help when the local database used by HubPress gets out-of-sync across browsers.

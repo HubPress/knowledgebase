@@ -1,0 +1,11 @@
+---
+related: 
+    - tabs/about_social_tab.adoc
+
+---
+
+The Flickr field lets you share your Flickr profile with your readers. 
+
+For example: `https://www.flickr.com/photos/johnsmith/`
+
+The field does not validate the URL, so make sure your profile address is spelled correctly.

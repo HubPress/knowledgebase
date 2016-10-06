@@ -1,0 +1,14 @@
+If you write blog posts in a language other than English, you must specify an alternative title using the `:hp-alt-title:` parameter.
+
+The alternative title is used when your post is published.
+
+.:hp-alt-title: Example
+[source, asciidoc]
+----
+= 大千世界
+:hp-alt-title: My English Title
+----
+
+The reason for this is because HubPress uses a library to convert the blog title to a URL (known as "Slugifying" the URL). 
+
+This library currently does not support Glyph characters found in Chinese or Japanese languages.

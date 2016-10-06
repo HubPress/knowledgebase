@@ -1,0 +1,18 @@
+{
+    "plugins": [
+        "search",
+        "theme-faq",
+        "-fontsettings",
+        "-sharing",
+        "-algolia",
+        "lunr"
+    ],
+    "pluginsConfig": {
+        "-algolia": {
+            "index": "TPA_FAQ",
+            "applicationID": "3ES1MFCS0L",
+            "publicKey": "9df3a8f26d0737dd826de1a4a96da304",
+            "freeAccount": "true"
+        }
+    }
+}

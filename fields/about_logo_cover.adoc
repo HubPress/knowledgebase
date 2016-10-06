@@ -1,0 +1,24 @@
+---
+related: 
+    - tabs/about_site_tab.adoc 
+    - fields/about_disqus_shortname.adoc
+    - fields/about_google_analytics.adoc
+    - fields/about_themes.adoc 
+    - write/use_image_directory.adoc
+    - write/use_hosted_images.adoc
+    - write/use_github_image_hosting.adoc
+
+---
+
+The *Logo* and *Cover Image* fields allow you to specify art assets to use on each page of your blog:
+
+* An HTML link to an image hosting service. For example gravatar, for your avatar.
+* A link to an image committed to the `/images` directory of your blog repository.
+
+IMPORTANT: The format you specify in these fields is important for repository-hosted images.
+
+You must use the pattern `/images/<filename>` so the static site generator can create the image paths to each sub-page of your blog.
+
+Failing to specify the leading forward-slash will mean the absolute path generated in the HTML pages will break.
+You'll know this has happened when Page 2 of your blog onwards does not have any cover or logo images.
+

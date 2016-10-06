@@ -1,0 +1,9 @@
+---
+related:
+    - tabs/about_site_tab.adoc
+
+---
+
+The *Title* and *Description* fields allow you to give your blog a name, and tell visitors what they can expect from your blog posts.
+
+The fields are also indexed by Google and will turn up in search results.

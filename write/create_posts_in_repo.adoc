@@ -1,0 +1,5 @@
+You can edit your posts in a local copy of your HubPress repository, however you will need to log onto HubPress Admin to publish your post.
+
+There is no command-line or API for HubPress that would allow you to avoid the interface.
+
+If you want a near WYSIWYG interface to edit your AsciiDoc files, applications like http://atom.io[Atom Editor] or http://asciidocfx.com[AsciidocFX Editor] are excellent choices.

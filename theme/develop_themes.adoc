@@ -1,0 +1,6 @@
+HubPress uses the Ghost themes to control the look and feel of blogs.
+
+You can use almost any Ghost theme available, providing you know how HubPress maps the theme assets. 
+
+Map the Ghost theme assets back into a mapping file. 
+HubPress knows what parts of a theme to load, which allows bloggers to consume your theme.

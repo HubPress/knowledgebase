@@ -1,0 +1,5 @@
+= Welcome to the HubPress KBase
+
+If you have questions about how to use HubPress, you've come to the right place. 
+
+The HubPress KBase contains all the information you need to administer your blog, and personalise it to your liking.

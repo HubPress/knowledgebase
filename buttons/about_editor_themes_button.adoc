@@ -1,0 +1,13 @@
+---
+related:
+    - views/about_writing_view.adoc
+
+---
+
+Editor themes allow you to write blog posts at night comfortably by selecting an editor theme that is gentle on the eyes.
+
+Solarized light is the default theme for the editor.
+
+Switch between light and dark with the btn:[Sun] button.
+
+image::https://cloud.githubusercontent.com/assets/2006548/16179640/8f0864d4-366b-11e6-8551-470443375de8.gif[]

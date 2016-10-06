@@ -1,0 +1,16 @@
+To categorise and group your blog posts, you can add tags to your post. 
+
+Use the `:hp-tags:` parameter combined with a list of comma-separated words to classify your posts. 
+
+.:hp-tags: Example
+[source, asciidoc]
+----
+= Blog Title
+:hp-tags: HubPress, Blog, Open_Source,
+----
+
+IMPORTANT: Your lables must not contain spaces. As you can see in the example, `Open_Source` has an underscore to separate the words.
+
+Using the example above, you can work around this by specifying the tags with commas. For example, `Open, Source,`.
+
+Consistently name your tags to cater for underscores as the word separator and increase reliability when you 

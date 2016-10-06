@@ -1,0 +1,15 @@
+---
+related:
+    - admin/access_admin_console.adoc
+    - buttons/about_synchronise_blog_posts_button.adoc
+
+---
+
+image:http://hubpress.io/img/login.png[Install complete,300]
+
+Enter your GitHub username and password to log into HubPress Admin.
+
+HubPress creates a personal token, which it uses for requests to the GitHub API.
+
+NOTE: The token synchronises across all sessions of HubPress. 
+If you open the Administration Console on your PC and then your Tablet, the token applies to all devices.

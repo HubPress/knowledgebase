@@ -1,0 +1,11 @@
+---
+related:
+   - tabs/about_social_tab.adoc
+
+---
+
+The GitHub field lets you promote your GitHub profile to your readers.
+
+For example: `https://github.com/johnsmith`
+
+The field does not validate the URL, so make sure your profile address is spelled correctly.

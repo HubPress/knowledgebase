@@ -1,0 +1,12 @@
+By default, the publication date is the date you created the Blog Post. 
+
+You can force the publication date by adding the `:published_at:` parameter.
+
+.:published_at: Example
+[source, asciidoc]
+----
+= Blog Title
+:published_at: 2015-01-31
+----
+
+Setting this parameter as specified will set the publish date to 31st January, 2015.

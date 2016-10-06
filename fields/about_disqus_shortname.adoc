@@ -1,0 +1,11 @@
+---
+related:
+    - tabs/about_site_tab.adoc
+
+---
+
+The *Disqus shortname* field takes your Disqus user name that you specified when registering a new site for Disqus.
+
+Only the shortname is required, not a link to your profile page.
+
+If you have not enabled Disqus for your site, create a site profile at https://disqus.com/admin/create/ with the name of your blog to get started. 
