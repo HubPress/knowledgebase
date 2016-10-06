@@ -1,2 +1,2 @@
 # knowledgebase
-HubPress Knowledgebase
+HubPress Knowledgebase for GitBook
