@@ -4,10 +4,16 @@ If you find something you want to fix, follow the instructions below.
 
 . Create an issue in https://github.com/HubPress/hubpress.io/issues[HubPress/hubpress.io] repository describing the change you propose.
 . Fork https://github.com/HubPress/dev.hubpress.io to make changes in the new development repository.
-. Switch to the `/development` branch.. Create a branch from `/development` in your forked repo. +NOTE: If you name the branch `issue-nnn`, it will make it easy to refer to the issue in the next step.+
+. Switch to the `/development` branch. 
+. Create a branch from `/development` in your forked repo. 
++
+NOTE: If you name the branch `issue-nnn`, it will make it easy to refer to the issue in the next step.
+
 . Open a Pull Request (PR), and summarise your changes, linking to the issue you created.
 
 Once you submit your PR, the team will review it. 
 If there are any changes required, the team will discuss them with you in the PR.
 
-The team has enabled Continuous Integration (CI) on the development repository. When your PR gets merged, Travis-CI builds a new version of HubPress from the `/development` branch. Part of this build process includes tests to make sure your change passes quality standards.
+The team has enabled Continuous Integration (CI) on the development repository. 
+When your PR gets merged, Travis-CI builds a new version of HubPress from the `/development` branch. 
+Part of this build process includes tests to make sure your change passes quality standards.
