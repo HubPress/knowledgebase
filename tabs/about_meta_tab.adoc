@@ -1,6 +1,5 @@
 ---
 related:
-
     - fields/about_git_cname.adoc
     - fields/about_live_preview_render.adoc
 
