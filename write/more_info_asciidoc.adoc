@@ -1,3 +1,9 @@
+---
+related:
+    - write/create_blog_post.adoc
+
+---
+
 If you are new to AsciiDoc, you may need some help working out how to do things you're used to in Markdown, or perhaps for the first time.
 
 Help is at hand!
@@ -12,6 +18,6 @@ From this resource, you can learn more about:
 * code sample block
 * images and figures
 
-The control over content and presentation you have with AsciiDoc will surprise you, when compared to Markdown.
+The control over content and presentation you have with AsciiDoc may surprise you.
 
-Don't be tempted to use the guide located at http://www.methods.co.nz/asciidoc/. This guide refers to the Python version of AsciiDoc which is not what HubPress uses.
+Don't use the guide located at http://www.methods.co.nz/asciidoc/. This guide refers to the Python version of AsciiDoc which is not what HubPress uses.
