@@ -5,8 +5,9 @@ related:
 
 ---
 
+Use Google Analytics to track where your readers are coming from.
+
 The *Google Analytics* field takes the Google Analytics Tracking ID of your site. 
-Use Google Analytics to track where your readers are coming from. 
 
 For example `UA-1234567-1`.
 
