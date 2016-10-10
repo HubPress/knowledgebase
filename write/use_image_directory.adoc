@@ -16,4 +16,3 @@ image::hubpress.jpg[]
 . See the http://asciidoctor.org/docs/asciidoc-writers-guide/[Asciidoctor Writer's Guide] for complete `image` syntax. 
 
 You can do a lot with images, including adjusting the size of the image, the caption, the alt text, and other settings.
-
