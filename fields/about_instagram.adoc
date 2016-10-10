@@ -4,8 +4,9 @@ related:
 
 ---
 
-The Instagram field lets you share all your Selfies and Foot Shots with your readers.
+The Instagram field lets you share all your Selfies and Food Shots with your readers.
 
 For example: `https://instagram.com/janesmith`
 
-The field does not validate the URL, so make sure your profile address is pasted correctly, and you test it after your settings are published.
+The field does not confirm the URL. 
+Test the URL once your settings update on your live site. 
