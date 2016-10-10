@@ -1,6 +1,5 @@
 --- 
 related:
-
     - tabs/about_site_tab.adoc
     - fields/about_logo_cover.adoc
 
@@ -15,6 +14,6 @@ You can use Git command line or a Git app to add images to your blog posts:
 image::hubpress.jpg[]
 ```
 
-. See the http://asciidoctor.org/docs/asciidoc-writers-guide/[Asciidoctor Writer's Guide] for complete `image` syntax. 
+. See http://asciidoctor.org/docs/asciidoc-writers-guide/[Asciidoctor Writer's Guide] for complete `image` syntax rules. 
 
 You can do a lot with images, including adjusting the size of the image, the caption, the alt text, and other settings.
