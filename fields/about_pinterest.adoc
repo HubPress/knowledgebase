@@ -4,11 +4,11 @@ related:
 
 ---
 
-The Pinterest field lets you share your Pins with your .
+The Pinterest field lets you share your Pins with your readers.
 
-For example: `https://au.linkedin.com/in/janesmith`
+For example: `https://au.pinterest.com/kami76/`
 
 This link is an example of an Australian profile.
-Visit your profile and check the link in your profile page for your regional LinkedIn vanity URL.
+Visit your profile and check the link in your profile page for your regional vanity URL.
 
 The field does not validate the URL, so make sure your profile address is pasted correctly, and you test it after your settings are published.
