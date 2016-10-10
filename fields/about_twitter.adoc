@@ -4,8 +4,9 @@ related:
 
 ---
 
-The Twitter field lets you share your microblogs profile with your readers.
+The Twitter field lets you share your micro-blog profile with your readers.
 
 For example: `https://twitter.com/janesmith`
 
-The field does not validate the URL, so make sure your profile address is pasted correctly, and you test it after your settings are published.
+The field does not confirm the URL. 
+Test the URL once your settings update on your live site. 
