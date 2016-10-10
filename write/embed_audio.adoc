@@ -1,9 +1,15 @@
+---
+related:
+    - write/create_blog_post.adoc
+
+---
+
 YouTube and Vimeo have pre-defined short notations in Asciidoctor.
 Other services like BandCamp or SoundCloud need a block pass-through to work.
 See http://asciidoctor.org/docs/user-manual/#pass-bl for more information about block pass-throughs.
 
 .BandCamp Audio Embed
-[source,asciidoc]
+[source]
 ----
 ++++
 <iframe style="border: 0; width: 350px; height: 470px;" src="//bandcamp.com/EmbeddedPlayer/album=2869458964/size=large/bgcol=333333/linkcol=0f91ff/tracklist=false/transparent=true/" seamless><a href="http://mocamborecords.bandcamp.com/album/showdown">SHOWDOWN by THE MIGHTY MOCAMBOS</a></iframe>
