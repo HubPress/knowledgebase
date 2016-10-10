@@ -4,16 +4,14 @@ related:
 
 ---
 
-:uri-repo: https://github.com/hubpress/hubpress.io
-:uri-issues: {uri-repo}/issues
-
-We use the {uri-issues}[HubPress.io issue tracker on GitHub] to track bugs and features.
-
+We use the https://github.com/hubpress/hubpress.io[HubPress.io issue tracker on GitHub] to track bugs and features.
 
 Before submitting a bug report or feature request, check to make sure your idea or issue is not already reported.
 
 Include any steps that may help reproduce the bug, and don't forget to include the AsciiDoc syntax you are using. 
 Logs can also be helpful when your posts are not saving.
 
-If you can, include the _Actual Behavior_ (what HubPress is doing now) and the _Expected Behavior_ (what you think HubPress should be doing).  
+If you can, include the _Actual Behavior_ (what HubPress is doing now) and the _Expected Behavior_ (what you think HubPress should be doing).
+
+This format will help the team diagnose your issue and work out whether we can proceed with a fix.
 
