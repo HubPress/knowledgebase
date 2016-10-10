@@ -1,4 +1,4 @@
-If you have a theme to your blog, this allows your readers to get a visual clue as to what the post is about.
+If you have a theme to your blog, this allows your readers to get a visual clue about the contents of the post.
 
 If you want to add a cover image to your Blog Post, set the `hp-image` attribute.
 
