@@ -6,4 +6,9 @@ related:
 
 Lets you specify a custom domain name for your blog.
 
-See https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages/[Setting Up A Custom Domain] to get help with configuring a CNAME for your blog.
+See https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages/ to get help with configuring a CNAME for your blog.
+
+You still need to supply a CNAME file in your repository for custom domain names to work. 
+GitHub has not yet implemented the API endpoint, but has the issue in their backlog. 
+
+https://twitter.com/anthonny_q/status/783771728719835140 shows the request.
