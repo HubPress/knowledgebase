@@ -10,7 +10,7 @@ You can use Git command line or a Git app to add images to your blog posts:
 . Commit images to the `/images` directory.
 . In your blog post, use the following basic AsciiDoc syntax:
 +
-[source,asciidoc]
+[source]
 ----
 image::hubpress.jpg[]
 ----
