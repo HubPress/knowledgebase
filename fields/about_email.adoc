@@ -6,6 +6,7 @@ related:
 
 The email field lets you specify an email address that is linked to the email icon in the theme.
 
-The email field does not validate the address, so make sure it is a valid address and is spelled correctly.
+The field does not confirm the URL. 
+Test the URL once your settings update on your live site. 
 
 
