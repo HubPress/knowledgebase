@@ -4,7 +4,7 @@ related:
 
 ---
 
-The Instagram field lets you share your LinkedIn profile so readers can _add you to their LinkedIn network_. 
+The *LinkedIn* field lets you share your LinkedIn profile so readers can _add you to their LinkedIn network_. 
 
 For example: `https://au.linkedin.com/in/janesmith`
 
