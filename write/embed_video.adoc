@@ -1,10 +1,17 @@
+---
+related:
+    - write/create_blog_post.adoc
+
+---
+
 HubPress allows you to embed video and audio directly into your blog post by using a quick notation in your blog post.
 
 You don't need to declare the full URL: all you need is the unique video ID.
 
-```
+[source]
+----
 video::[unique_youtube_video_id][youtube | vimeo]
-```
+----
 
 .YouTube Video Embed
 [source,asciidoc]
