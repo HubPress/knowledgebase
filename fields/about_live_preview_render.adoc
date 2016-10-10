@@ -1,3 +1,5 @@
+
+
 Controls how long the live render takes to refresh, in milliseconds.
 
 Setting this value to greater than `2000` (two seconds) results in a smoother editing experience because the live preview is not refreshed as frequently.
