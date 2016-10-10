@@ -4,8 +4,8 @@ related:
 
 ---
 
-The `Posts` view is the default view you see when you first log onto HubPress.
+The *Posts* view is the default view you see when you first log onto HubPress.
 
-When you first start HubPress, the `Posts` view is empty.
+When you first start HubPress, the *Posts* view is empty.
 
 As you create blog posts, the page populates with the list of posts on the left, and a rendered preview of the blog post itself on the right.
