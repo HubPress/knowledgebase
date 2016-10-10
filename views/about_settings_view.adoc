@@ -8,7 +8,7 @@ related:
 
 You can configure basic blog settings (such as CNAME and Pagination) and social media accounts you want to connect to your blog.
 
-Settings groups are separated into tabs, to logically group the settings.
+Settings groups are tabulated, to logically group the settings.
 
 .How To Access the Settings View
 . On the Posts View, click the Menu button.
