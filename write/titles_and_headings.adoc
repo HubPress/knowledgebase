@@ -12,8 +12,8 @@ If you want a first-level (chapter) heading you use `== First Level Heading`, an
 
 For sections, use a `=== Second Level Heading` to create subsections below your chapters.
 
-[example,asciidoc]
 .Blog Post Syntax Example
+[source,asciidoc]
 ----
 = Update: What's New in Version 0.5.1
 :hp-tags: release
