@@ -1,4 +1,8 @@
+---
+related:
+    - tabs/about_meta_tab.adoc
 
+---
 
 Controls how long the live render takes to refresh, in milliseconds.
 
