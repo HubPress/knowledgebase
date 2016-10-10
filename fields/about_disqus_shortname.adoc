@@ -4,7 +4,7 @@ related:
 
 ---
 
-The *Disqus shortname* field takes your Disqus user name that you specified when registering a new site for Disqus.
+The *Disqus shortname* field takes your Disqus user name, which you set when registering a new Disqus site.
 
 Only the shortname is required, not a link to your profile page.
 
