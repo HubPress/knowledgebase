@@ -1,5 +1,5 @@
 HubPress supports the HTML5 back-end.
-Specifying other back-end types results in an error similar to:
+Specifying other back-end types in your blog posts results in an error like:
 
 [source,bash]
 ----
