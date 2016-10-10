@@ -1,5 +1,5 @@
 --- 
-related: 
+related:
 
     - fields/about_title_description.adoc
     - fields/about_disqus_shortname.adoc
