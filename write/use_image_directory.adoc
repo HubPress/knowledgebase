@@ -1,4 +1,4 @@
---- 
+---
 related:
     - tabs/about_site_tab.adoc
     - fields/about_logo_cover.adoc
