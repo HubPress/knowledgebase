@@ -4,6 +4,8 @@ related:
 
 ---
 
+:experimental: 
+
 Editor themes allow you to write blog posts at night comfortably by selecting an editor theme that is gentle on the eyes.
 
 Solarized light is the default theme for the editor.
