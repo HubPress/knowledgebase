@@ -11,7 +11,7 @@ related:
 
 Use the btn:[Save] button to save changes to your blog post before you publish it.
 
-When you save your post, changes are synchronized with GitHub, so your blog post is safe from data loss.
+When you save your post, changes synchronise with GitHub, so your blog post is safe from data loss.
 
 
 Saving your blog post will not publish the post to your site. 
