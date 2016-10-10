@@ -1,6 +1,10 @@
+---
+related:
+    - write/problems_with_posts.adoc
+
 If code samples contain delimited asterix symbols, this pattern is parsed as processing instructions by Asciidoctor.
 
-If you find that your code samples are not displaying correctly, specify `:compat-mode: true` to disable processing in code blocks.
+Specify `:compat-mode: true` to disable processing in code blocks.
 
 .:compat-mode: Example
 [source, asciidoc]
