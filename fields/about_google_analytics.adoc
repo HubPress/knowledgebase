@@ -6,9 +6,9 @@ related:
 ---
 
 The *Google Analytics* field takes the Google Analytics Tracking ID of your site. 
+Use Google Analytics to track where your readers are coming from. 
 
 For example `UA-1234567-1`.
 
-If you do not have a Google Analytics tracking ID, you can set one up easily on the website, or through the Google Analytics app on android and iOS.
+You can create an ID on https://www.google.com/analytics/ or through the Google Analytics app on android and iOS.
 
-You can use Google Analytics to track where your readers are coming from. 
