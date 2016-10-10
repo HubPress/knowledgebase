@@ -2,8 +2,6 @@ Developers use the GitHub Gist service to store and share code snippets with oth
 
 You can use the gist macro to integrate Gist snippets from any developer in your posts.
 
-== Syntax
-
 The `gist` macro works similarly to the YouTube and Vimeo macros.
 
 For example with the gist https://gist.github.com/anthonny/7786310 the usage is described in the following code samples.
