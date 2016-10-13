@@ -4,7 +4,7 @@ related:
 
 ---
 
-The Pinterest field lets you share your Pins with your readers.
+The *Pinterest* field lets you share your Pins with your readers.
 
 For example: `https://au.pinterest.com/kami76/`
 
