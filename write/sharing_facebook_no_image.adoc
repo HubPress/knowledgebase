@@ -9,7 +9,7 @@ related:
 
 Facebook has a requirement that content shared through their social network needs to have an image provided somewhere in your post. 
 
-If you do not set an image, the Share function does not provide a preview of the blog post text.
+If you do not set an image, the `Share` function in Facebook does not provide a preview of the blog post text.
 
 To fix this issue, add an image (either cover image or body text image) to your post and Facebook will correctly display a rich preview of the post.
 

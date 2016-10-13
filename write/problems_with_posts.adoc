@@ -3,6 +3,7 @@ related:
     - parameters/hp-alt-title.adoc
     - parameters/hp-tags.adoc
     - parameters/compat-mode.adoc
+    - write/sharing_facebook_no_image.adoc
     - write/more_info_asciidoc.adoc
 
 ---

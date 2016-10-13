@@ -12,6 +12,7 @@
 . link:write/more_info_asciidoc.adoc[How do I find out more syntax tips for AsciiDoc?]
 . link:write/multiple_authors.adoc[How do I collaborate with multiple authors on my posts?]
 . link:write/problems_with_posts.adoc[I can not publish posts, or something is going wrong. Help!]
+. link:write/sharing_facebook_no_image.adoc[Why is no preview text showing on shared posts on Facebook?]
 . link:write/use_github_image_hosting.adoc[Can I use GitHub Issues to host images I want to use?]
 . link:write/use_hosted_images.adoc[Can I use hosted images in my blog posts?]
 . link:write/use_image_directory.adoc[Can I use images stored in my Blog repository in my blog posts?]
