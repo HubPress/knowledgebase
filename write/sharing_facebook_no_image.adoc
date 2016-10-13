@@ -1,0 +1,16 @@
+---
+related:
+    - write/problems_with_posts.adoc
+    - write/use_github_image_hosting.adoc
+    - write/use_hosted_images.adoc
+    - write/use_image_directory.adoc
+
+---
+
+Facebook has a requirement that content shared through their social network needs to have an image provided somewhere in your post. 
+
+If you do not set an image, the Share function does not provide a preview of the blog post text.
+
+To fix this issue, add an image (either cover image or body text image) to your post and Facebook will correctly display a rich preview of the post.
+
+Reference: https://github.com/HubPress/hubpress.io/issues/207[Issue 207]
