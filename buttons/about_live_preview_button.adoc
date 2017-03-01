@@ -10,7 +10,7 @@ related:
 
 Use the btn:[Live Preview] button to get a preview of your page with styles applied.
 
-
+image:/assets/live-preview.gif[alt=""]
 
 The way the post formats when published may vary based on the theme you choose.
 
