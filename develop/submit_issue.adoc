@@ -6,12 +6,14 @@ related:
 
 We use the https://github.com/hubpress/hubpress.io[HubPress.io issue tracker on GitHub] to track bugs and features.
 
-Before submitting a bug report or feature request, check to make sure your idea or issue is not already reported.
+Before submitting a bug report or feature request, check to make sure your issue or idea has not already been reported or suggested.
 
 Include any steps that may help reproduce the bug, and don't forget to include the AsciiDoc syntax you are using. 
 Logs can also be helpful when your posts are not saving.
 
 If you can, include the _Actual Behavior_ (what HubPress is doing now) and the _Expected Behavior_ (what you think HubPress should be doing).
+
+Don't forget to include the repository for your HubPress blog so we can take a look at it and help you troubleshoot it.
 
 This format will help the team diagnose your issue and work out whether we can proceed with a fix.
 
