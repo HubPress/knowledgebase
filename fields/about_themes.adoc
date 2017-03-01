@@ -20,6 +20,5 @@ The current folder names are:
 * uno
 * uno-zen
 
-.New in 0.5.1
 NOTE: Theme names are lowercase for consistency.
 If you find your theme is not loading, check the Site settings and adjust the names accordingly. 

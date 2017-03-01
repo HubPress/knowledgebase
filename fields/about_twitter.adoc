@@ -6,7 +6,7 @@ related:
 
 The Twitter field lets you share your micro-blog profile with your readers.
 
-For example: `https://twitter.com/janesmith`
+A valid example of this URL is: https://twitter.com/janesmith
 
-The field does not confirm the URL. 
+The field does not confirm the validity of the URL. 
 Test the URL once your settings update on your live site. 
