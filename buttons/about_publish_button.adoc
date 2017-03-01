@@ -14,3 +14,6 @@ Use the btn:[Publish] button to push your blog post "live" on your HubPress stat
 The btn:[Publish] button will save your current work and then publish.
 
 Use the btn:[Save] button to save changes as you write your post, and keep them private until you are ready to publish to the world.
+
+If you want to remove your post from your blog, click the btn:[Unpublish] button. 
+The btn:[Publish] button changes from Publish to Unpublish depending on the published state of your post.
