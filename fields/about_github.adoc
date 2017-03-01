@@ -6,7 +6,7 @@ related:
 
 The GitHub field lets you promote your GitHub profile to your readers.
 
-For example: `https://github.com/johnsmith`
+A valid example is: https://github.com/johnsmith
 
-The field does not confirm the URL. 
+The field does not confirm the validity of the URL. 
 Test the URL once your settings update on your live site. 

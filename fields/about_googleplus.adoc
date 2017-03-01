@@ -6,6 +6,7 @@ related:
 
 The Google+ field lets you promote your Google Plus profile to your readers.
 
-For example: `https://plus.google.com/u/0/+JaneSmith_janesmith`
+A valid example is: https://plus.google.com/u/0/+JaneSmith_janesmith
 
-The field does not confirm the URL. Test the URL once your settings update on your live site. 
+The field does not confirm the validity of the URL. 
+Test the URL once your settings update on your live site. 

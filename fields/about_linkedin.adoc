@@ -6,10 +6,10 @@ related:
 
 The *LinkedIn* field lets you share your LinkedIn profile so readers can _add you to their LinkedIn network_. 
 
-For example: `https://au.linkedin.com/in/janesmith`
+A valid example of this URL is: https://au.linkedin.com/in/janesmith
 
 This link is an example of an Australian profile. 
 Visit your profile and check the link in your profile page for your regional LinkedIn vanity URL.
 
-The field does not confirm the URL. 
+The field does not confirm the validity of the URL. 
 Test the URL once your settings update on your live site.
