@@ -1,5 +1,5 @@
-You can edit your posts in a local copy of your HubPress repository, however you will need to log onto HubPress Admin to publish your post.
+You can edit your posts in a local copy of your HubPress repository and then `git push` to your blog repo.
 
-There is no command-line or API for HubPress that would allow you to avoid the interface.
+You will need to log onto HubPress Admin to publish your post because there is no command-line or API for HubPress that would allow you to publish any other way.
 
 If you want a near WYSIWYG interface to edit your AsciiDoc files, applications like http://atom.io[Atom Editor] or http://asciidocfx.com[AsciidocFX Editor] are excellent choices.
