@@ -6,7 +6,7 @@ related:
 
 The Facebook field lets you share your Facebook profile with your readers. 
 
-For example: `https://www.facebook.com/janesmith`
+A valid example is: https://www.facebook.com/janesmith.
 
-The field does not confirm the URL. 
+The field does not confirm the validity of the URL. 
 Test the URL once your settings update on your live site. 
