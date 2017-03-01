@@ -13,3 +13,5 @@ Settings groups are tabulated, to logically group the settings.
 .How To Access the Settings View
 . On the Posts View, click the Menu button.
 . Click Settings to load the Settings view.
+
+image:/assets/settings-view.gif[alt=""]

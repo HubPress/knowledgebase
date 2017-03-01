@@ -36,9 +36,9 @@
 . link:views/about_settings_view.adoc[What is the Settings view?]
 
 == Tabs
-. link:tabs/about_meta_tab.adoc[What is the Meta tab used for?]
-. link:tabs/about_site_tab.adoc[What is the Site tab used for?]
-. link:tabs/about_social_tab.adoc[What is the Social tab used for?]
+. link:tabs/about_meta_tab.adoc[What is the Application tab used for?]
+. link:tabs/about_site_tab.adoc[What is the HubPress tab used for?]
+. link:tabs/about_social_tab.adoc[What is the Social Network tab used for?]
 
 == Buttons
 . link:buttons/about_editor_themes_button.adoc[How do I change the editor theme when I'm writing blog posts?]
