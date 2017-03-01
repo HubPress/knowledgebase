@@ -8,6 +8,10 @@ If you are new to AsciiDoc, you may need some help working out how to do things 
 
 Help is at hand!
 
+You can access basic AsciiDoc syntax when you are writing your post.
+
+image:/assets/asciidoc-help.gif[alt=""]
+
 Visit http://asciidoctor.org/docs/user-manual/ for a comprehensive and canonical resource for writing in AsciiDoc using the Asciidoctor toolchain. 
 
 From this resource, you can learn more about:
