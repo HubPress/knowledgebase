@@ -69,6 +69,7 @@
 == Development
 . link:develop/other_asciidoctor_backends.adoc[Can I specify other Asciidoctor back-ends?]
 . link:develop/contribute_pr.adoc[How do I contribute a Pull Request (PR) to the project?]
+. link:develop/submit_issue.adoc[How do I log a bug or enhancement against HubPress?]
 
 == Theming 
 . link:theme/develop_themes.adoc[How do I use my own HubPress Ghost Theme?]
