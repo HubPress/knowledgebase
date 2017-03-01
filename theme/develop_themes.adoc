@@ -1,6 +1,16 @@
+---
+related:
+    - develop/submit_issue.adoc
+    
+---
+
 HubPress uses the Ghost themes to control the look and feel of blogs.
 
 You can use almost any Ghost theme available, providing you know how HubPress maps the theme assets. 
 
-Map the Ghost theme assets back into a mapping file. 
-HubPress knows what parts of a theme to load, which allows bloggers to consume your theme.
+If you look into the theme folders, you'll see a mapping file. 
+You map the Ghost theme assets back into a mapping file. 
+HubPress knows what parts of a theme to load, which allows HubPress to consume your theme.
+
+NOTE: The way themes are offered will change from 0.7.1.
+If you want to contribute a theme, create a request in the HubPress Bug Tracker and we'll help you.
