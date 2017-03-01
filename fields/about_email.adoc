@@ -6,7 +6,7 @@ related:
 
 The email field lets you specify an email address that is linked to the email icon in the theme.
 
-The field does not confirm the URL. 
-Test the URL once your settings update on your live site. 
+The field does not confirm the validity of the address. 
+Test the email link once your settings update on your live site. 
 
 
