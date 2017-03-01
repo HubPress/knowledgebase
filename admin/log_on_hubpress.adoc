@@ -5,7 +5,7 @@ related:
 
 ---
 
-image::http://hubpress.io/img/login.png[Install complete,300]
+image:/assets/login.png[alt=""]
 
 Enter your GitHub username and password to log into HubPress Admin.
 
