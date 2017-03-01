@@ -1,3 +1,10 @@
+---
+related:
+    - views/about_writing_view.adoc
+    - write/problems_with_posts.adoc
+
+---
+
 HubPress uses the Asciidoctor `Article` container to structure posts.
 
 The blog title is always Level 1 in an AsciiDoc post. For example, `= Title` sets the name of the Blog Post to `Title` when published.
