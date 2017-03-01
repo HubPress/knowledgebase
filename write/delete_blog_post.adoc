@@ -8,8 +8,7 @@ related:
 
 You can delete blog posts instead of having to rename them and use them again later.
 
-If you have a post you need to edit to delete, you can do so by accessing the Action Overflow (three dots) menu.
+. Click the btn:[Trash] button.
+. Click btn:[Yes] to delete the post.
 
-image::https://cloud.githubusercontent.com/assets/2006548/16179033/30283216-365a-11e6-8461-425fa0908f25.gif[alt=""]
-
-This menu contains the btn:[Edit] and btn:[Delete] functions applicable to each post.
+image:/assets/delete-post.gif[alt=""]
