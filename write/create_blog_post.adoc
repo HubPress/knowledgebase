@@ -4,13 +4,21 @@ related:
     - write/problems_with_posts.adoc
     - views/about_posts_view.adoc
     - write/more_info_asciidoc.adoc
+    - parameters/hp-alt-title.adoc
+    - parameters/hp-image.adoc
+    - parameters/hp-tags.adoc
+    - parameters/published-at.adoc
 
 ---
 
-To start blogging with HubPress, click the pencil icon in the top right of the Posts view.
+:experimental:
+
+To start blogging with HubPress, click the btn:[+] icon in the top right of the Posts view.
 
 This creates an empty blog post for you, ready for your next great idea, or discovery you want to tell the world about.
 
 There are certain structural requirements you must meet in a HubPress blog post, before it can be saved and published to your blog site. 
+
+To help you get started, a sample title and the common blog parameters are inserted for you. To use them, remove the two slashes to uncomment them. 
 
 See the related posts below as a starting point for writing your posts. 
