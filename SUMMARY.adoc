@@ -72,6 +72,7 @@
 . link:develop/submit_issue.adoc[How do I log a bug or enhancement against HubPress?]
 
 == Theming 
+. link:theme/themes_with_code_support.adoc[Which themes have the best code block support?]
 . link:theme/develop_themes.adoc[How do I use my own HubPress Ghost Theme?]
 
 == Installing
