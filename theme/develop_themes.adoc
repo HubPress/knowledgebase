@@ -6,11 +6,33 @@ related:
 
 HubPress uses the Ghost themes to control the look and feel of blogs.
 
-You can use almost any Ghost theme available, providing you know how HubPress maps the theme assets. 
+You can use almost any Ghost theme available, providing you map the page assets back into the HubPress theme attributes. 
 
-If you look into the theme folders, you'll see a mapping file. 
-You map the Ghost theme assets back into a mapping file. 
-HubPress knows what parts of a theme to load, which allows HubPress to consume your theme.
+NOTE: The way themes are managed will change from Release 8.
 
-NOTE: The way themes are offered will change from 0.7.1.
-If you want to contribute a theme, create a request in the HubPress Bug Tracker and we'll help you.
+If you look into the theme folders, you'll see a mapping file named `theme.js`.
+
+[source,json]
+----
+{
+  "files": {
+    "author": "author.hbs",
+    "default": "default.hbs",
+    "index": "index.hbs",
+    "page": "page.hbs",
+    "post": "post.hbs",
+    "tag": "tag.hbs",
+    "links": "partials/links.hbs",
+    "footer": "partials/footer.hbs",
+    "loop": "partials/loop.hbs"
+  },
+  "version":"1.0.0"
+}
+----
+
+You map the Ghost theme `.hbs` assets back into the HubPress page parameters.
+
+If you want to modify a theme shipped with HubPress, you should *never* alter a theme without making a copy first.
+If you don't you may have issues with updating HubPress easily in the future because of merge conflicts between the modified shipped themes.
+
+If you want to contribute a theme, create a request in the https://github.com/HubPress/hubpress.io/issues[HubPress.io Bug Tracker] and we'll help you.
