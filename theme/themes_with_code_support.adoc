@@ -1,0 +1,16 @@
+---
+related:
+    - theme/develop_themes.adoc
+    - develop/submit_issue.adoc
+    
+---
+
+HubPress offers a number of themes you can use to customise your blog. 
+
+If you plan to create a developer blog with plenty of code samples, you should try the `uno` or `saga` themes first.
+
+These themes have the best code block support out of all the shipped themes. 
+
+That doesn't mean you can't customise the other themes to add highlighter support, but these will get you started blogging quicker.
+
+See https://github.com/HubPress/hubpress.io/issues/407[Issue #407] for the origin of this article.
