@@ -36,3 +36,5 @@ If you want to modify a theme shipped with HubPress, you should *never* alter a 
 If you don't you may have issues with updating HubPress easily in the future because of merge conflicts between the modified shipped themes.
 
 If you want to contribute a theme, create a request in the https://github.com/HubPress/hubpress.io/issues[HubPress.io Bug Tracker] and we'll help you.
+
+There may also be other edge-cases in the Ghost themes you select. Once such example is in https://github.com/HubPress/hubpress.io/issues/55[Issue #55] where the `contentFor` requirement required some compromises.
