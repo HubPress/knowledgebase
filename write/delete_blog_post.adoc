@@ -11,4 +11,4 @@ You can delete blog posts instead of having to rename them and use them again la
 . Click the btn:[Trash] button.
 . Click btn:[Yes] to delete the post.
 
-image:/assets/delete-post.gif[alt=""]
+image:/assets/delete-post.gif[alt="Delete a post with the Trash button"]
